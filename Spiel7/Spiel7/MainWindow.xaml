@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="522" WindowStartupLocation="CenterScreen" Cursor="Arrow" IsHitTestVisible="True" HorizontalContentAlignment="Stretch" ResizeMode="CanMinimize">
     <Canvas Name="theCanvas">
-        <Button Click="ButtonStartStop_Click" x:Name="ButtonStartStop" Content="Start/Stop" Margin="21,30,0,0" RenderTransformOrigin="0.5,0.5" Grid.IsSharedSizeScope="True" UseLayoutRounding="False"/>
+        <Button Click="ButtonStartStop_Click" x:Name="ButtonStartStop" Content="Start/Stop" RenderTransformOrigin="0.5,0.5" Grid.IsSharedSizeScope="True" UseLayoutRounding="False" Canvas.Left="43.549" Canvas.Top="23.05"/>
         <CheckBox x:Name="checkBoxFast" Content="schnell" Margin="300,38,0,0" Grid.IsSharedSizeScope="True" UseLayoutRounding="False"/>
         <RadioButton Click="radioButtonRed_Click" x:Name="radioButtonRed" Content="Rot" Grid.IsSharedSizeScope="True" Canvas.Left="21" Canvas.Top="118" UseLayoutRounding="False"/>
         <RadioButton Click="radioButtonGreen_Click" x:Name="radioButtonGreen" Content="Grün" Margin="21,226,0,0" RenderTransformOrigin="-2.281,-1.889" Grid.IsSharedSizeScope="True" UseLayoutRounding="False"/>
