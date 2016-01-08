@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 
 namespace WpfApplication2
 {
-    // Test
+   
     /// <summary>
     /// Interaktionslogik für MainWindow.xaml
     /// </summary>
