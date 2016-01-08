@@ -1,0 +1,14 @@
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\bin\Debug\Spiel7.exe.config
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\bin\Debug\Spiel7.exe
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\bin\Debug\Spiel7.pdb
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\obj\Debug\Spiel7.csprojResolveAssemblyReference.cache
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\obj\Debug\MainWindow.g.cs
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\obj\Debug\App.g.cs
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\obj\Debug\Spiel7_MarkupCompile.cache
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\obj\Debug\Spiel7_MarkupCompile.lref
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\obj\Debug\MainWindow.baml
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\obj\Debug\Spiel7.g.resources
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\obj\Debug\Spiel7.Properties.Resources.resources
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\obj\Debug\Spiel7.csproj.GenerateResource.Cache
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\obj\Debug\Spiel7.exe
+\\Server02\Userhomes\Malek.Elkemel\Desktop\Git_ROOT2\Testspiel-2\Spiel7\Spiel7\obj\Debug\Spiel7.pdb
