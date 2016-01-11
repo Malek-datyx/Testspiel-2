@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApplication2"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="522" WindowStartupLocation="CenterScreen" Cursor="Arrow" IsHitTestVisible="True" HorizontalContentAlignment="Stretch" ResizeMode="CanMinimize">
-    <Canvas Name="theCanvas">
+        Title="MainWindow" Height="350" Width="522" WindowStartupLocation="CenterScreen" Cursor="Arrow" IsHitTestVisible="True" HorizontalContentAlignment="Stretch" MinWidth="500" MinHeight="300" ResizeMode="CanResizeWithGrip" >
+    <Canvas Name="theCanvas" Margin="0,0,-2,-2" Height="321" VerticalAlignment="Top">
         <Button Click="ButtonStartStop_Click" x:Name="ButtonStartStop" Content="Start/Stop" RenderTransformOrigin="0.5,0.5" Grid.IsSharedSizeScope="True" UseLayoutRounding="False" Canvas.Left="43.549" Canvas.Top="23.05"/>
         <CheckBox x:Name="checkBoxFast" Content="schnell" Margin="300,38,0,0" Grid.IsSharedSizeScope="True" UseLayoutRounding="False"/>
         <RadioButton Click="radioButtonRed_Click" x:Name="radioButtonRed" Content="Rot" Grid.IsSharedSizeScope="True" Canvas.Left="21" Canvas.Top="118" UseLayoutRounding="False"/>
@@ -14,7 +14,6 @@
         <RadioButton Click="radioButtonBlue_Click" x:Name="radioButtonBlue" Content="Blaue" Margin="21,177,0,0" Grid.IsSharedSizeScope="True" UseLayoutRounding="False"/>
         <Ellipse MouseDown="ball_MouseDown" x:Name="ball" Fill="Black" Height="30" Canvas.Left="220" Canvas.Top="162" Stroke="Black" Width="30" Grid.IsSharedSizeScope="True" UseLayoutRounding="False"/>
         <Label x:Name="labelScore" Content="--" Canvas.Left="453" Canvas.Top="16" FontSize="26.667" FontWeight="Bold" BorderBrush="Black" HorizontalContentAlignment="Stretch" UseLayoutRounding="False" VerticalContentAlignment="Stretch" ScrollViewer.HorizontalScrollBarVisibility="Visible" Grid.IsSharedSizeScope="True"/>
-
-
+    
     </Canvas>
 </Window>

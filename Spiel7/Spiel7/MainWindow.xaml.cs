@@ -30,7 +30,7 @@ namespace WpfApplication2
             timer.Interval = TimeSpan.FromSeconds(0.05);
 
         }
-      
+        
         private void radioButtonRed_Click(object sender, RoutedEventArgs e)
         {
             ball.Fill = Brushes.Red;
